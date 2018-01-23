@@ -1,6 +1,7 @@
 # Collaborative Online Judge
 
 This is an platform for users to write code with other partners simultaneously and compile the code they write. It has serveral features
+
 ● Implemented a web-based collaborative code editor using Socket.io and Redis which supports multiple user editing 
 
 ● Designed and developed a responsive web application using Angular2, Node.js for coding problems
